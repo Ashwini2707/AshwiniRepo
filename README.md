@@ -7,4 +7,7 @@ Nginx 1.2.3
 hotfixes
 devevlop 6
 develop 7
+release 1
+release 2
+develop 7
 
